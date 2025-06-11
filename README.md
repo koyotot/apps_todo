@@ -28,11 +28,11 @@ Aplikasi ini bertujuan untuk mengorganisir semua tugas kuliah, baik tugas yang s
 
 | Tampilan | Gambar |
 |----------|--------|
-| **Login Page** | ![ss_login](lib/web/icons/ss_login.PNG) |
-| **Halaman Baru** | ![ss_newer](lib/web/icons/ss_newer.PNG) |
-| **Halaman Navigasi** | ![ss_pages](lib/web/icons/ss_pages.PNG) |
-| **Sign Up Page** | ![ss_signup](lib/web/icons/ss_signup.PNG) |
-| **Welcome Page** | ![ss_welcome](lib/web/icons/ss_welcome.PNG) |
+| **Login Page** | ![ss_login](web/icons/ss_login.PNG) |
+| **Halaman Baru** | ![ss_newer](web/icons/ss_newer.PNG) |
+| **Halaman Navigasi** | ![ss_pages](web/icons/ss_pages.PNG) |
+| **Sign Up Page** | ![ss_signup](web/icons/ss_signup.PNG) |
+| **Welcome Page** | ![ss_welcome](sweb/icons/ss_welcome.PNG) |
 
 ---
 
