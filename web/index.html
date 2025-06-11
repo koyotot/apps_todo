@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="$FLUTTER_BASE_HREF">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Flutter To-Do List with Google Calendar">
+
+  <!-- ✅ Google Sign-In Client ID -->
+  <meta name="google-signin-client_id" content="694484782416-rf2dihcro97ca5qcipu7kihnhehhje1j.apps.googleusercontent.com">
+
+  <!-- iOS meta tags -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="To-Do List">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+  <link rel="icon" type="image/png" href="favicon.png"/>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+  <title>Flutter To-Do List</title>
+
+  <!-- ✅ Firebase SDKs -->
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-auth-compat.js"></script>
+
+  <script>
+    const firebaseConfig = {
+      apiKey: "AIzaSyAJ6vm3j6U7eHgr-I2YcXZ2slH7EDOQn14",
+      authDomain: "to-do-list-9bcc4.firebaseapp.com",
+      projectId: "to-do-list-9bcc4",
+      storageBucket: "to-do-list-9bcc4.appspot.com",
+      messagingSenderId: "694484782416",
+      appId: "1:694484782416:web:327bfccd36a34e8cd43055",
+      measurementId: "G-MYHBR9X0CT"
+    };
+    firebase.initializeApp(firebaseConfig);
+  </script>
+</head>
+<body>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "694484782416",
+    "project_id": "to-do-list-9bcc4",
+    "storage_bucket": "to-do-list-9bcc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694484782416:android:0fccd0e9c644aa4ad43055",
+        "android_client_info": {
+          "package_name": "com.example.prak_dbs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6kyUD9Qm74DJzD2gOBX5yTlJQbVIiJOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694484782416:android:6d926c130f28e3c5d43055",
+        "android_client_info": {
+          "package_name": "to.dolist.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6kyUD9Qm74DJzD2gOBX5yTlJQbVIiJOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

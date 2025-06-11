@@ -1,0 +1,45 @@
+name: prak_dbs
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.6.2 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+
+  # Firebase
+  firebase_core: ^2.31.0
+  firebase_auth: ^4.17.4
+  cloud_firestore: ^4.15.4
+
+  # Google Sign-In & Calendar API
+  google_sign_in: ^6.1.0        # Untuk Android/iOS
+  googleapis_auth: ^1.4.0       # OAuth untuk Google API (Web)
+  googleapis: ^13.1.0           # Google Calendar API
+  http: ^1.1.0                  # HTTP client untuk Google API
+
+  # UI & Utilities
+  google_fonts: ^6.1.0
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - web/icons/Icon-192.png
+    - web/icons/Icon-512.png
+    - web/icons/login_illustration.png
+    - web/icons/signup_illustration.png
+    - web/icons/logo_ilustration.png
+    - web/icons/list_ilustration.png
+    - web/icons/google_logo.png
